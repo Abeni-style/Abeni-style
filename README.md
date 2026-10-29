@@ -1,48 +1,53 @@
-# Hey, I'm Abenezer! 👋🇪🇹
+Hi, I'm Abeni
 
-### 💻 Student Developer | 🤖 CS & AI Enthusiast | 🌌 Space Explorer
+Student Developer | Computer Science | AI | Software Development
 
-I'm a Grade 10 student from Ethiopia interested in software development, artificial intelligence, cybersecurity, and space technology.
+I'm Abenezer Shebabaw Abebe, a Grade 10 student at Kallamino Special High School in Tigray, Ethiopia.
 
-I enjoy learning by building projects, solving problems, and exploring how technology works.
+I'm interested in using technology to solve problems, building useful software and understanding how things work.
 
-## 🛠️ Technologies & Interests
+My journey has taken me through programming projects, AddisCoder, teaching younger students during school closures,international researches & programmes and adapting to changes in my education. Each experience has shaped how I learn and what I want to build next.
 
-- 🐍 **Python:** Programming and problem-solving
-- 🌐 **Web Development:** HTML, CSS, JavaScript
-- 🔌 **APIs:** Exploring how applications communicate
-- 🤖 **Artificial Intelligence:** Learning about intelligent systems
-- 🛡️ **Cybersecurity:** Exploring digital security
-- 🌌 **Space & Astronomy:** Interested in the universe and space exploration
+---
 
-## 🚀 Featured Projects
+What I'm Interested In
 
-### ✈️ ELARIS
-**Ethiopian Local Airline Reservation & Information System**
+- Computer Science: programming, algorithms and problem-solving
+- Software Development: building websites, applications and useful tools
+- Artificial Intelligence: exploring intelligent systems and automation
+- Space Science: astronomy and the technology behind space exploration
 
-A Python-based team project featuring airline reservation functionality and booking management.
+Technologies
 
-🏆 **Achievement:** 1st place.
+- Languages: Python, HTML, CSS, JavaScript
+- Interests: AI, web development, nd space technology
 
-### 🌐 Web Development & Portfolio
-Portfolio and web projects created while developing my frontend skills and learning to present projects online.
+Projects
 
-### 🔌 API Projects
-Exploring API integration and building applications that retrieve and display information from external services.
+ELARIS
 
-## 🌱 Currently Growing
+A Python-based Ethiopian Local Airline Reservation and Information System, built with a team of six during AddisCoder. The project earned first place in our competition.
 
-- Improving my Python and web development skills
-- Building more practical projects
-- Strengthening my problem-solving abilities
-- Exploring AI, cybersecurity, and space technology
+EthioSec Scanner
 
-## ♟️ Beyond Coding
+An AI-focused web security project exploring ways to identify and understand website security issues.
 
-Chess, Rubik's cubes, anime, football, basketball, tennis, and astronomy.
+Web Development
 
-## 🤝 Let's Connect
+Portfolio and Weather API Portal projects built using web technologies.
 
-I'm open to learning, sharing ideas, and collaborating with other students and developers.
+I'm continuing to improve these projects, organize their repositories, and document how they work.
 
-**Curious mind. Growing skills. Projects in progress.** 🚀
+Beyond Coding
+
+I also enjoy mathematics, chess, astronomy and collaborative STEM activities. During school closures caused by conflict, I participated in NASA Space App & Pioneer GPSI Projects & Lumiere research too and  I taught mathematics and English to younger students for five months.
+
+That experience strengthened my interest in using what I learn to help others.
+
+---
+
+«"Little by little, an egg will walk."»
+
+I believe progress comes from consistent learning, practical work, and the willingness to keep improving.
+
+I'm here to learn, build, experiment, and get better with every project.
