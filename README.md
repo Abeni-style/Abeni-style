@@ -1,53 +1,88 @@
-Hi, I'm Abenezer
+# Hi, I'm Abenezer 👋
 
-Student Developer | Computer Science | AI | Software Development
+**Software Developer · AI & Multilingual NLP · Space Technology**
 
-I'm Abenezer Shebabaw Abebe, a Grade 10 student at Kallamino Special High School in Tigray, Ethiopia.
+Grade 10 · Kallamino Special High School · Mekelle, Tigray, Ethiopia
+[Email](mailto:abenezeruniverseiq@gmail.com) · [GitHub](https://github.com/Abeni-style)
 
-I'm interested in using technology to solve problems, building useful software and understanding how things work.
-
-My journey has taken me through programming projects, AddisCoder, teaching younger students during school closures,international researches & programmes and adapting to changes in my education. Each experience has shaped how I learn and what I want to build next.
-
----
-
-What I'm Interested In
-
-- Computer Science: programming, algorithms and problem-solving
-- Software Development: building websites, applications and useful tools
-- Artificial Intelligence: exploring intelligent systems and automation
-- Space Science: astronomy and the technology behind space exploration
-
-Technologies
-
-- Languages: Python, HTML, CSS, JavaScript
-- Interests: AI, web development, nd space technology
-
-Projects
-
-ELARIS
-
-A Python-based Ethiopian Local Airline Reservation and Information System, built with a team of six during AddisCoder. The project earned first place in our competition.
-
-EthioSec Scanner
-
-An AI-focused web security project exploring ways to identify and understand website security issues.
-
-Web Development
-
-Portfolio and Weather API Portal projects built using web technologies.
-
-I'm continuing to improve these projects, organize their repositories, and document how they work.
-
-Beyond Coding
-
-I also enjoy mathematics, chess, astronomy and collaborative STEM activities. During school closures caused by conflict, I participated in NASA Space App & Pioneer GPSI Projects & Lumiere research too and  I taught mathematics and English to younger students for five months.
-
-That experience strengthened my interest in using what I learn to help others.
+I build practical software in Python, evaluate multilingual AI systems, and learn in public.
+My focus is turning ideas into working, documented tools — and using what I learn to help others along the way.
 
 ---
 
-«"Little by little, an egg will walk."»
+## About
 
-I believe progress comes from consistent learning, practical work, and the willingness to keep improving.
+- 🔭 Building **ELARIS**, an Ethiopian local airline reservation and information system in Python — **1st place** in the AddisCoder team competition.
+- 🌐 Researching **multilingual translation** with NLLB-200, automatic metrics, and native-speaker evaluation in [GEREX-TigrinyaLens](https://github.com/Abeni-style/GEREX-TigrinyaLens).
+- 🧩 Stronger in **Python, HTML, CSS, and JavaScript**; comfortable shipping small tools end to end and documenting how they work.
+- 🌱 Grade 10 student at Kallamino Special High School — open to internships, collaboration, and open-source contributions.
 
-I'm here to learn, build, experiment, and get better with every project.
+## Focus Areas
+
+| 🤖 AI & NLP | 🛠 Software Engineering | 🌌 Space Technology | 📐 Applied Mathematics |
+|---|---|---|---|
+| Translation models (NLLB-200), evaluation metrics, native-speaker assessment | Python fundamentals, clean code, documentation, team collaboration | Astronomy, space science programmes, satellite and GPS project exposure | Mathematical reasoning, algorithms, problem decomposition |
+
+## Technical Toolkit
+
+**Languages** — Python · JavaScript · HTML5 · CSS3
+**AI & Data** — Hugging Face Transformers · NLLB-200 · Automatic MT evaluation metrics · Native-speaker assessment
+**Web & APIs** — REST/JSON API integration · OpenWeatherMap API · Responsive front-end design
+**Tools & Workflow** — Git & GitHub · Repository documentation · Issue & pull request collaboration
+
+## Featured Projects
+
+### [GEREX-TigrinyaLens](https://github.com/Abeni-style/GEREX-TigrinyaLens) — Multilingual Translation Evaluation
+
+An evaluation of English-to-Tigrinya and English-to-French AI translation using NLLB-200, combining automatic metrics with native-speaker assessment to measure real-world translation quality for low-resource Ethiopian languages.
+
+**Focus** — low-resource language evaluation · automatic + human evaluation · documented methodology
+
+### [ELARIS](https://github.com/Abeni-style/ELARIS) — Airline Reservation & Information System
+
+A Python-based Ethiopian local airline reservation and information system covering flight information and booking features. Developed by a team of six during AddisCoder — **1st place** in the competition.
+
+**Focus** — team development · search and booking logic · practical domain modelling
+
+### [CodeAlpha Python Projects](https://github.com/Abeni-style/codealpha_tasks) — Python Fundamentals Portfolio
+
+Three Python projects completed through the CodeAlpha Internship Program: a Hangman word game, a stock portfolio tracker, and a rule-based chatbot — covering input validation, state handling, and clean control flow.
+
+**Focus** — Python fundamentals · control flow · user input handling · problem solving
+
+### [CovalentX Web Development](https://github.com/Abeni-style/CovalentXTechnologies_Project) — Front-End & API Work
+
+A responsive personal portfolio website built with HTML, CSS, and JavaScript, plus an API Reader that pulls live weather data from the OpenWeatherMap API.
+
+**Focus** — responsive layout · live API integration · clean front-end structure
+
+## Programs & Background
+
+- **AddisCoder (2026)** — team software development; built ELARIS and won 1st place in the project competition.
+- **CodeAlpha Internship (2026)** — Python fundamentals and structured project practice.
+- **CovalentX Technologies** — web development programme covering front-end work and API integration.
+- **NASA Space Apps** — collaborative space technology project.
+- **Pioneer GPSI & Lumiere** — international research programmes.
+
+## Beyond Code
+
+- 🧑‍🏫 Taught mathematics and English to younger students for five months during school closures — learning to explain ideas clearly and help others keep moving.
+- ♟️ Chess, astronomy, and collaborative STEM activities keep me curious outside the editor.
+
+## Currently
+
+- Deepening Python for data and machine-learning work.
+- Extending the multilingual evaluation to more Ethiopian languages.
+- Organising repositories, documenting how each project works, and contributing to open source.
+
+## Connect
+
+- **Email** — [abenezeruniverseiq@gmail.com](mailto:abenezeruniverseiq@gmail.com)
+- **GitHub** — [@Abeni-style](https://github.com/Abeni-style)
+- **Location** — Mekelle, Tigray, Ethiopia
+
+---
+
+> *"Little by little, an egg will walk."*
+>
+> A small Ethiopian proverb, and the way I work: steady, consistent, and always improving.
