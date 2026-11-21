@@ -1,4 +1,4 @@
-Hi, I'm Abeni
+Hi, I'm Abenezer
 
 Student Developer | Computer Science | AI | Software Development
 
